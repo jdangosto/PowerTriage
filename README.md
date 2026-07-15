@@ -1,4 +1,6 @@
-![PowerTriage - PowerShell Triage Tool](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCzqxFE5Bl3MFLcJWDQkQ_5H92_0HY8g60rWbjziDPJ_AlWhDCKUE2soEAe2efjF0x4kqJxYJxdzM2WpfJ24ZTnS5EKd97opAskFQEp4wDG3MCLIIbQU8rDzks35AutMErCUH7kiR_nYU0bplBN_u6m5PoZtpubqRdAy0mCs0IrjOWWjmlbeb5RKn1eTk/s320/Logo.png)
+# This project has been discontinued, the new version is in https://github.com/PowerForensics/ 
+
+
 # PowerTriage
 Powertriage is a DFIR Powershell script to perform a live adquisition of artifacts on a Windows System without external software.
 
